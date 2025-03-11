@@ -1,24 +1,23 @@
-# Proyecto SIC - Cubit UCV 🤖
+## 🎭 RECOMENDACIÓN DE ANIMES EMOCIONALMENTE INTELIGENTE – **El Futuro del Entretenimiento Personalizado**  
 
-**Proyecto SIC - cubitUCV**, desarrollado como parte del programa **Samsung Innovation Campus**. Este proyecto está enfocado en el análisis, limpieza y manipulación de datos de un dataset de animes para explorar información relevante para recomendaciones personalizadas.
-[Dataset Myanimelist](https://www.kaggle.com/datasets/svanoo/myanimelist-dataset)
+En un mundo post-pandemia, donde el bienestar emocional es clave, las recomendaciones tradicionales de contenido ya no son suficientes. **¿Cuántas veces has perdido tiempo buscando qué ver, solo para terminar sin sentirte realmente conectado con la elección?**  
 
-# Miembros Cubics UCV 👩‍💻
-- Gabriel Valero
-- Andreina Lacruz
-- César Gutiérrez
-- Diego Guevara
-- Thibisay Palma
+### 🚀 **Nuestra Solución**  
+Hemos desarrollado un **modelo de recomendación impulsado por IA**, que **comprende las emociones** del usuario y las obras. Con esto, logramos sugerencias **auténticamente personalizadas**, creando experiencias de entretenimiento que realmente impactan.  
 
-# Análisis de los datos 📊
+### 💡 **¿Por qué es innovador?**  
+🔹 **Más allá de los géneros:** En lugar de recomendar por etiquetas genéricas, nuestro modelo identifica la **carga emocional de cada obra** y su relación con el estado de ánimo del usuario.  
+🔹 **IA que entiende emociones:** Aplicamos técnicas de **machine learning** para interpretar contenido de manera profunda. 
+🔹 **Adaptabilidad:** No importa si buscas una historia que te motive, te relaje o te haga reflexionar, nuestra IA encuentra lo que realmente necesitas.  
 
-El archivo donde se analizaron los datos se encuentra en [Analisis de datos/main.ipynb](https://github.com/Thibisay/Proyecto-SIC-cubitUCV/blob/main/Analisis%20de%20datos/main.ipynb)
+### 🌍 **Impacto Socioeconómico**  
+✅ **Mejora la salud mental** al proporcionar contenido alineado con las emociones del usuario.  
+✅ **Impulsa la industria del entretenimiento**, aumentando la retención y satisfacción en plataformas de streaming.  
+✅ **Fomenta la diversidad de contenido**, recomendando obras menos conocidas pero altamente relevantes a nivel emocional.  
 
-Nota: la documentación del archivo estará dentro de la misma carpeta.
+### 🛠 **Cómo funciona**  
+1️⃣ **Análisis de emociones del usuario** mediante inputs como animes vistos.  
+2️⃣ **Evaluación de contenido** basada en las emociones de lo que ves y en la experiencia de otros usuarios con gustos similares.  
+3️⃣ **Generación de recomendaciones** altamente personalizadas en tiempo real.  
 
-¡Importante!: Leer los títulos, hay dos importaciones de la base de datos dependiendo de si está desde colab para descargar los 1.78gb que pesa el dataset o si está desde vsc y tiene los archivos .csv localmente en el root.
-
-También estar pendiente 👀 de los módelos de inteligencia artificial para la clasificación de textos, estos solo se usaron para la clasificación de los animes por emociones por lo que no es necesario de correr.
-
-# MVP 💻
-El código de la aplicación se encuentra adentro de la carpeta app/ revisar el package.json para correr el Frontend.
+_¡Transformemos juntos la manera en que disfrutamos el entretenimiento!_ 🎉
